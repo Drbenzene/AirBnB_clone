@@ -6,7 +6,7 @@ footer {
 	border-top: 1px solid;
 	border-color: #CCCCCC;
 	bottom: 0px;
-	position: absolute;
+	position: fixed;
 }
 footer div{
 	margin-top: 25px;
