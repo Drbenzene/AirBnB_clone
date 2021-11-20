@@ -1,5 +1,4 @@
 # AirBnB Clone Project 
----
 ## Description
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
 
@@ -15,14 +14,15 @@ At the end of this project you are expected to be able to explain to anyone, wit
 - How to serialize and deserialize a Class
 - How to write and read a JSON file
 - How to manage datetime
-- What is an UUID
+- What is an 'UUID'
 - What is *args and how to use it
 - What is **kwargs and how to use it
 - How to handle named arguments in a function
 
 ### Commandline Interpreter
 * Starting the Commandline Interpreter
-- The Commandline Interpreter can be started by executing the command ./console.py. The console can create, destroy, and update objects. Type help within the console to get a list of command options and its function.
+
+The Commandline Interpreter can be started by executing the command ./console.py. The console can create, destroy, and update objects. Type help within the console to get a list of command options and its function.
 
 Example:
 
