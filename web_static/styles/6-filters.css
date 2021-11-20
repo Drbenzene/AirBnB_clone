@@ -24,14 +24,12 @@ button:hover {
 }
 h3 {
 	font-weight: 600;
-	color: #484848;
 	margin: 12px 0;
 }
 h4 {
 	font-weight: 400;
 	font-size: 14px;
 	margin: 0 auto;
-	color: #484848;
 }
 .locations {
 	width: 25%;
@@ -39,14 +37,53 @@ h4 {
 	border-right: 1px solid #DDDDDD;
 	float: left;
 }
+.locations .popover {
+	margin-top: 12px;
+}
+.locations:hover .popover {
+	display: block;
+}
 .amenities {
+	height: 100%;
 	width: 25%;
 	float: left;
+}
+.amenities .popover {
+	margin-top: 12px;
+}
+.amenities:hover .popover {
+	display: block;
 }
 section div {
 	display: inline-block;
 }
 .mytext {
-	margin-left: 40px;
 	width: 100%;
+}
+.mytext h3 {
+	margin-left: 20px;
+}
+.mytext h4 {
+	margin-left: 20px;
+}
+.popover {
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	display: none;
+	background-color: #FAFAFA;
+}
+.popover li {
+	line-height: 25px;
+	list-style-type: none;
+	font-size: 16px;
+}
+.popover h2 {
+	font-size: 16px;
+	padding-left: 25px;
+	margin-left: -14px;
+}
+.popover ul {
+	display: block;
+	list-style-type: none;
+	margin-left: -14px;
 }
