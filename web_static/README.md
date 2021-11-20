@@ -1,0 +1,1 @@
+Web Static Of AIRBNB Project. The webstatic is the frontend folder for the project. 
