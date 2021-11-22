@@ -26,7 +26,8 @@ The Commandline Interpreter can be started by executing the command ./console.py
 
 Example:
 
-firdaus@ubuntu:~$ ./console.py
+`
+drbenzene@ubuntu:~$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -40,8 +41,9 @@ all  destroy  show  update
 (hbnb) help quit
 Quit command to exit the program
 (hbnb) quit
-firdaus@ubuntu:~$
-File Content
+drbenzene@ubuntu:~$
+`
+* File Content
 This repository contains the following files:
 
 Folder	File	Description
