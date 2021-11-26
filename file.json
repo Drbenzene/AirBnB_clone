@@ -1,0 +1,54 @@
+{
+    "User.92f424cf-8f1d-4b50-820e-b15f4981f615": 
+    {
+        "id": "92f424cf-8f1d-4b50-820e-b15f4981f615", 
+        "created_at": "2021-11-14T14:56:08.300256", 
+        "updated_at": "2021-11-14T14:56:08.300308", 
+        "first_name": "Betty", "last_name": "Bar", 
+        "email": "airbnb@mail.com", 
+        "password": "root", 
+        "__class__": "User"
+    }, 
+
+    "User.81596d79-d7a2-4f03-969c-30304c948010": 
+    {
+        "id": "81596d79-d7a2-4f03-969c-30304c948010", 
+        "created_at": "2021-11-14T14:56:08.394594", 
+        "updated_at": "2021-11-14T14:56:08.394661", 
+        "first_name": "John", 
+        "email": "airbnb2@mail.com", 
+        "password": "root", 
+        "__class__": "User"
+    }, 
+    
+    "User.84f156a5-6a44-4e50-a953-7d76df8cec7a": 
+    {
+        "id": "84f156a5-6a44-4e50-a953-7d76df8cec7a", 
+        "created_at": "2021-11-14T14:57:05.124787", 
+        "updated_at": "2021-11-14T14:57:05.124825", 
+        "first_name": "Betty", "last_name": "Bar", 
+        "email": "airbnb@mail.com", 
+        "password": "root", 
+        "__class__": "User"
+    }, 
+    
+    "User.a523e4ad-9f99-4bd2-ac2b-2a1fd71fe354": 
+    {
+        "id": "a523e4ad-9f99-4bd2-ac2b-2a1fd71fe354", 
+        "created_at": "2021-11-14T14:57:05.200273", 
+        "updated_at": "2021-11-14T14:57:05.200313", 
+        "first_name": "John", 
+        "email": "airbnb2@mail.com", 
+        "password": "root", 
+        "__class__": "User"
+    }, 
+    
+    "BaseModel.c6dbc70b-fe67-43ea-a213-8f04ac8e1b80": 
+    {
+        "id": "c6dbc70b-fe67-43ea-a213-8f04ac8e1b80", 
+        "created_at": "2021-11-14T15:08:46.680019", 
+        "updated_at": "2021-11-14T15:08:46.680588", 
+        "name": "My First Model", "my_number": 89, 
+        "__class__": "BaseModel"
+    }, 
+        "BaseModel.c6198766-1568-48e4-aeb4-d2bdb6aa4256": {"id": "c6198766-1568-48e4-aeb4-d2bdb6aa4256", "created_at": "2021-11-14T15:09:23.317969", "updated_at": "2021-11-14T15:09:23.318007", "name": "My_First_Model", "my_number": 89, "__class__": "BaseModel"}}

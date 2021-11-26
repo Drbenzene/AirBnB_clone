@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-Base Class
+Base Class to take care of initialization, serialization and deserialization of your future instances
 '''
 from datetime import datetime as dt
 import uuid
