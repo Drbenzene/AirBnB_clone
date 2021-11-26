@@ -30,4 +30,14 @@ def save(self):
             json.dump(d1, f)
 
 def reload(self):
+            """
+        Reload will deserialize a JSON formatted file to an __object
+        *** Only if it exists!
+        """
+        if os.path.exists(self.__file_path):
+            with open(self.__file_path, mode="r") as f:
+                readit = json.load(f)
+                for value in readit.values():
+                    a = eval("{}(**value)".format(value["__class__"]))
+                    self.new(a)
     
